@@ -125,3 +125,12 @@ console.log(typeof arrayFromNumber[0])   // number
 import sayHi = require('./exporter');
 sayHi();
 
+/*
+Third-party Declaration Files
+
+When using a library that was originally designed for regular JavaScript, we need to apply a declaration file to make that library compatible with TypeScript. A declaration file has the extension .d.ts and contains various information about the library and its API.
+
+TypeScript declaration files are usually written by hand, but there’s a high chance that the library you need already has a .d.ts. file created by somebody else. DefinitelyTyped is the biggest public repository, containing files for over a thousand libraries. There is also a popular Node.js module for managing TypeScript definitions called Typings.
+
+If you still need to write a declaration file yourself, this guide will get you started.
+*/

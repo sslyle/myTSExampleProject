@@ -1,12 +1,15 @@
 {
-  "description": "myProject",
+  "name": "my_typescript_example_project",
+  "description": "myTSExampleProject",
   "README": "README.md",
   "license": "LGPL-3.0",
+  "version": "0.0.0",
   "dependencies": {
+    "commonjs": "0.0.1",
     "require": "^2.4.20"
-  }
-  , "repository" : {
-        "type" : "git"
-        , "url" : "https://sslyle.github.io/myTSExampleProject/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sslyle.github.io/myTSExampleProject/"
   }
 }
