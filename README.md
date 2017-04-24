@@ -1,2 +1,2 @@
 # myTSExampleProject
-helping other get up to TS speed
+helping a friend get up to TS speed
