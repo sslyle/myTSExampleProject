@@ -1,0 +1,12 @@
+{
+  "description": "myProject",
+  "README": "README.md",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+  , "repository" : {
+        "type" : "git"
+        , "url" : "https://sslyle.github.io/myTSExampleProject/"
+  }
+}
